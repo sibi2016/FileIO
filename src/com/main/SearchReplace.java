@@ -33,21 +33,6 @@ public class SearchReplace {
 		sc.close();
 		sc1.close();
 		
-		/*File log= new File("C:/Users/Sibi/Desktop/file.txt");
-		String search = "seven";  // <- changed to work with String.replaceAll()
-		String replacement = "six";
-		//file reading
-		FileReader fr = new FileReader(log);
-		String s;
-	
-		    BufferedReader br = new BufferedReader(fr);
-
-		    while ((s = br.readLine()) != null) {
-		        System.out.println(s.replaceAll(search, replacement));
-		        // do something with the resulting line
-		    }*/
-		
-		    //br.close();
 	}
 
 }
