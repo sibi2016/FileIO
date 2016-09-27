@@ -1,0 +1,1 @@
+This is using BufferedWriter.This file needs to be copied to another file.
